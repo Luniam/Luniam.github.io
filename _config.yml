@@ -19,7 +19,7 @@ navbar-links:
     - Programming: "code"
     - Boxing: "boxing"
     - Guitar: "guitar"
-  Resume: "<a href='pdfs/resume.pdf'></a>"
+  Resume: "resume"
 
 # --- Logo --- #
 
