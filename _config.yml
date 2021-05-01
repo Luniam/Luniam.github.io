@@ -15,7 +15,8 @@ author: Mainul Islam Mahi
 
 navbar-links:
   What I am doing:
-    - Code: "code"
+    - Writing: "writing"
+    - Programming: "code"
     - Boxing: "boxing"
     - Guitar: "guitar"
   Resume: "aboutme"
